@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Snoof Watt Widget</string>
+    <string name="watt_widget_desc">"Shows your device's watt usage."</string>
+</resources>
