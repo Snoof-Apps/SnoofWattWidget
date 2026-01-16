@@ -40,7 +40,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
-            android:fontFamily="@font/kanit_medium"
             android:textColor="@android:color/system_accent2_100"
             android:textSize="22sp"
             android:textStyle="bold"
