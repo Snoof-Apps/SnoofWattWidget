@@ -1,4 +1,4 @@
 package snoof.widget.watt;
 
-public class MainActivity {
+public class Snoof {
 }
