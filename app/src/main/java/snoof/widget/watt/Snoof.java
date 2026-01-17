@@ -1,4 +1,6 @@
 package snoof.widget.watt;
 
-public class Snoof {
+import androidx.appcompat.app.AppCompatActivity;
+
+public class Snoof extends AppCompatActivity {
 }
